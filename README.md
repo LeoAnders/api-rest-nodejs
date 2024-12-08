@@ -1,7 +1,7 @@
 ### RF (Requisitos funcionais)
 
-[ ] O usuário deve poder criar ums nova transação
-[ ] O usuário deve poder obter um resumo da sua conta
+[x] O usuário deve poder criar ums nova transação
+[x] O usuário deve poder obter um resumo da sua conta
 [ ] Pode listar todas transações que já ocorreram
 [ ] O usuário pode visualizar uma transação única
 
